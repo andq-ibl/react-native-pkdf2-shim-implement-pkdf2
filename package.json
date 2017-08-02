@@ -1,0 +1,8 @@
+{
+  "name": "react-native-pbkdf2-shim-with-pkdf2",
+  "version": "1.0.0",
+  "description": "Implement pkdf2 function",
+  "main": "lib/index.js",
+  "author": "An Dang <dangquocan@gmail.com>",
+  "license": "MIT"
+}
